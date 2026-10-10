@@ -4,15 +4,20 @@ Kaip prisijungti prie modinto mc serverio
 
 1. **Atidarykite atsisiuntimo puslapį:**
    Eikite į oficialų SKlauncher puslapį, skirtą Windows sistemai: [next.skmedix.pl/downloads/windows](https://next.skmedix.pl/downloads/windows).
+   <img width="1914" height="1077" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f90092f4-857c-402e-8174-56aee1dd9bbc" />
 
-2. **Atsisiųskite paleidėją:**
+3. **Atsisiųskite paleidėją:**
    Puslapyje paspauskite atsisiuntimo mygtuką ir išsaugokite `SKlauncher.exe` failą patogioje kompiuterio vietoje (pvz., darbalaukyje). Šios programos nereikia atskirai instaliuoti – ji veikia iškart.
 
-3. **Pasirūpinkite Java (jei reikia):**
+4. **Pasirūpinkite Java (jei reikia):**
    Jei bandant atidaryti programą niekas nevyksta, įsitikinkite, kad kompiuteryje įdiegta Java (Minecraft 1.17+ versijoms rekomenduojama **Java 17** arba **Java 21**).
 
-4. **Paleiskite programą:**
+5. **Paleiskite programą:**
    Atidarykite atsisiųstą `SKlauncher.exe` failą.
 
-5. **Prisijunkite „SKlauncher“ režimu:**
+6. **Prisijunkite „SKlauncher“ režimu:**
    Atsidarius paleidėjui, pasirinkite **SKlauncher**  režimą. Įveskite norimą žaidėjo vardą, kuris bus matomas mūsų serveryje, ir spauskite **Log In** / **Play**, kad patektumėte į pagrindinį meniu.
+   <img width="1919" height="1079" alt="Screenshot_2" src="https://github.com/user-attachments/assets/81da6a20-5fe9-4348-a28c-d01f5de7810f" />
+   <img width="1919" height="1079" alt="Screenshot_5" src="https://github.com/user-attachments/assets/954ee32e-61f2-48f0-9fff-46e93161438f" />
+
+
