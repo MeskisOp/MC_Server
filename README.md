@@ -3,7 +3,7 @@ Kaip prisijungti prie modinto mc serverio
 ## 📥 Kaip atsisiųsti ir paruošti SKlauncher
 
 1. **Atidarykite atsisiuntimo puslapį:**
-   Eikite į oficialų SKlauncher puslapį, skirtą Windows sistemai: [next.skmedix.pl/downloads/windows](https://next.skmedix.pl/downloads/windows).
+   Eikite į oficialų SKlauncher puslapį, skirtą Windows sistemai: [SKlauncher](https://next.skmedix.pl/downloads/windows).
    <img width="1914" height="1077" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f90092f4-857c-402e-8174-56aee1dd9bbc" />
 
 3. **Atsisiųskite paleidėją:**
@@ -25,6 +25,6 @@ Kaip prisijungti prie modinto mc serverio
 Serveris veikia visiškai uždaroje aplinkoje. Be šio žingsnio prie serverio prisijungti nepavyks.
 1.  Nueikite į šia nuoroda [Wireguard](https://www.wireguard.com/install/)  ir atsisiuskite 
 2. Atidarykite **WireGuard** programą savo kompiuteryje.
-3. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo `.conf` failą.
+33. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo asmeninį `.conf` failą (kurį rasite [šioje repozitorijoje](https://github.com/TAVO_VARTOTOJAS/TAVO_REPOZITORIJA)).
 4. Kairėje pusėje atsiras naujas tunelis. Pažymėkite jį ir spauskite **Activate**.
 5. Tunelio būsena pasikeis į *Active* – jūs sėkmingai prisijungėte prie mūsų privataus tinklo.
