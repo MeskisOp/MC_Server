@@ -25,6 +25,8 @@ Kaip prisijungti prie modinto mc serverio
 Serveris veikia visiškai uždaroje aplinkoje. Be šio žingsnio prie serverio prisijungti nepavyks.
 1.  Nueikite į šia nuoroda [Wireguard](https://www.wireguard.com/install/)  ir atsisiuskite 
 2. Atidarykite **WireGuard** programą savo kompiuteryje.
-33. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo asmeninį `.conf` failą (kurį rasite [šioje repozitorijoje](https://github.com/MeskisOp/MC_Server/blob/main/temp.conf)) ijejus i ją paspauskite Ctrl+Shift+S kad atsiustumete faila.
-4. Kairėje pusėje atsiras naujas tunelis. Pažymėkite jį ir spauskite **Activate**.
-5. Tunelio būsena pasikeis į *Active* – jūs sėkmingai prisijungėte prie mūsų privataus tinklo.
+3. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo asmeninį `.conf` failą (kurį rasite [šioje repozitorijoje](https://github.com/MeskisOp/MC_Server/blob/main/temp.conf)) ijejus i ją paspauskite Ctrl+Shift+S kad atsiustumete faila.
+   <img width="1919" height="1079" alt="Screenshot_7" src="https://github.com/user-attachments/assets/2e9d36e8-1615-4d12-b086-63014cc695b5" />
+
+5. Kairėje pusėje atsiras naujas tunelis. Pažymėkite jį ir spauskite **Activate**.
+6. Tunelio būsena pasikeis į *Active* – jūs sėkmingai prisijungėte prie mūsų privataus tinklo.
