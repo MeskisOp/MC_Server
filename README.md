@@ -20,4 +20,11 @@ Kaip prisijungti prie modinto mc serverio
    <img width="1919" height="1079" alt="Screenshot_2" src="https://github.com/user-attachments/assets/81da6a20-5fe9-4348-a28c-d01f5de7810f" />
    <img width="1919" height="1079" alt="Screenshot_5" src="https://github.com/user-attachments/assets/954ee32e-61f2-48f0-9fff-46e93161438f" />
 
+## 🔒 2. WireGuard VPN Aktyvavimas
 
+Serveris veikia visiškai uždaroje aplinkoje. Be šio žingsnio prie serverio prisijungti nepavyks.
+
+1. Atidarykite **WireGuard** programą savo kompiuteryje.
+2. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo `.conf` failą.
+3. Kairėje pusėje atsiras naujas tunelis. Pažymėkite jį ir spauskite **Activate**.
+4. Tunelio būsena pasikeis į *Active* – jūs sėkmingai prisijungėte prie mūsų privataus tinklo.
