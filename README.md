@@ -1,5 +1,5 @@
 # MC_Server
-Kaip prisijungti prie modinto mc serverio
+Kaip prisijungti prie modinto mc serverio taipat galite naudoti prism ar modrinth launcherius
 ## 📥 Kaip atsisiųsti ir paruošti SKlauncher
 
 1. **Atidarykite atsisiuntimo puslapį:**
@@ -25,7 +25,7 @@ Kaip prisijungti prie modinto mc serverio
 Serveris veikia visiškai uždaroje aplinkoje. Be šio žingsnio prie serverio prisijungti nepavyks.
 1.  Nueikite į šia nuoroda [Wireguard](https://www.wireguard.com/install/)  ir atsisiuskite 
 2. Atidarykite **WireGuard** programą savo kompiuteryje.
-3. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo asmeninį `.conf` failą (kurį rasite [šioje repozitorijoje](https://github.com/MeskisOp/MC_Server/blob/main/temp.conf)) ijejus i ją paspauskite Ctrl+Shift+S kad atsiustumete faila.
+3. Spauskite mygtuką **Import tunnel(s) from file** ir pasirinkite savo asmeninį `.conf` failą (kurį rasite [fluxer](https://fluxer.gg/nYpdL1ZS)) paprašyk failo.
    <img width="1919" height="1079" alt="Screenshot_7" src="https://github.com/user-attachments/assets/2e9d36e8-1615-4d12-b086-63014cc695b5" />
 
 5. Kairėje pusėje atsiras naujas tunelis. Pažymėkite jį ir spauskite **Activate**.
